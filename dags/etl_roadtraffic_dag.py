@@ -302,9 +302,9 @@ default_args = {
 
 # Define DAG
 dag = DAG(
-    dag_id = 'ETL_toll_data_py_operators',
+    dag_id = 'roadtraffic_etl_dag',
     default_args = default_args,
-    description = "Batch ETL process for toll data using Python Operators",
+    description = "Batch ETL process for road traffic data using Python Operators",
 )
 
 

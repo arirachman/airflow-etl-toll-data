@@ -452,3 +452,16 @@
 {"timestamp":"2025-08-04T15:06:50.337004","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-04T15:07:20.996406","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-08-04T15:07:51.215320","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:08:21.839123","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:08:52.884323","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:09:23.111734","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:09:53.311815","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:10:24.396193","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:10:55.420690","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:11:25.630692","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:11:55.792845","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:12:26.838705","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:12:57.817210","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:13:28.882795","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:13:59.922637","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:14:30.994243","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/toll_data_etl_bash.py","logger":"airflow.models.dagbag.DagBag"}

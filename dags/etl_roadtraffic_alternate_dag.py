@@ -18,9 +18,9 @@ default_args = {
 
 # Define DAG
 dag = DAG(
-    dag_id = 'ETL_toll_data',
+    dag_id = 'roadtraffic_etl_alternative_dag',
     default_args = default_args,
-    description = "Batch ETL process for toll data"
+    description = "Batch ETL process for road traffic data using Bash Operators",
 )
 
 #Task 1: Download the dataset
