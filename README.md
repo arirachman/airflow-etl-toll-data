@@ -10,9 +10,6 @@
 ```
 opt/
 ├── README.md
-├── docker-compose.yaml
-├── config/
-│   └── airflow.cfg
 ├── dags/
 │   ├── etl_roadtraffic_alternate_dag.py
 │   ├── toll_data_etl_bash.py
@@ -31,7 +28,6 @@ opt/
 │   ├── dag_id=ETL_toll_data_py_operators/
 │   └── dag_processor/
 ├── plugins/
-└── ETL_toll_data_py.py
 ```
 ## Acknowledgement
 I acknowledge IBM Data Engineering Specialization for taught me the hands-on labs, and provide me the dataset to experiment on it.
