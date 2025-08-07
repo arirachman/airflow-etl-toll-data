@@ -117,12 +117,12 @@ The DAG executes the following steps:
 6. **Export Output** – Save to `data/staging/final_output.csv`
 
 Pipeline diagram:
-![DAG_workflow.png][toll_data_etl/assets/DAG_workflow.png]
+![DAG_workflow.png][./assets/DAG_workflow.png]
 DAG runs successfully in 32 seconds.
-![overview_dag_runs.png][toll_data_etl/assets/overview_dag_runs.png]
+![overview_dag_runs.png][./assets/overview_dag_runs.png]
 
 The first 20 records of pipeline output as `transformed_data.csv` in the staging directory would look like this:
-![output_csv_head.png][output_csv_head.png]
+![output_csv_head.png][./assets/output_csv_head.png]
 
 ---
 
